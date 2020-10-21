@@ -1,0 +1,2 @@
+helly:if expand("%") == ""|browse confirm w|else|confirm w|endif
+o
